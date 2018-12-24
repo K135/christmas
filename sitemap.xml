@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://appries.com/index.html</loc>
+    <lastmod>2018-12-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://appries.com/images/1007996_christs-mobile-wallpaper.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/ezgif-4-d54ba4f7c14d.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/ezgif-4-211cf3e5b3ce.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/1007996_christmas-mobile-wallpaper.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://appries.com/assets/ezgif-4-d7daa1cad487.gif</loc>
+    <lastmod>2018-12-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
